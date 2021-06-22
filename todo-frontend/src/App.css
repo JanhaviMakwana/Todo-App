@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  font-family: 'Poppins' !important;
+  background-color: rgba(252, 248, 248, 0.2);
+  height: 100vh;
+  z-index: 1;
+}
+
+.btn{
+  display: inline-block;
+  padding: 6px; 
+  border: 1px solid #00695c;
+  margin: 10px;
+  width: 10%;
+  height: max-content;
+  color: #00695c;
+  background: white;
+  border-radius: 3px;
+  cursor: pointer;
+  font-weight: 700;
+  box-shadow: 0 0 2px rgba(0, 105, 92, 1);
+  font-family: inherit;
+}
+
+.btn:hover,
+.btn:active {
+background-color: #00695c;
+color: white;
+}
+
+.danger{
+  color: red;
+  border: 1px solid red;
+  box-shadow: 0 0 2px rgba(255, 0,0, 0.54);
+}
+.danger:hover,
+.danger:active {
+background-color: red;
+color: white;
+}

@@ -1,0 +1,22 @@
+.addTask{
+    padding: 50px 10px 10px 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+}
+
+.addTask_form{
+    width: 50%;
+    margin: 10px auto;
+}
+
+.addTask_form > form> input{
+    width: 70%;
+    outline: none;
+    display: inline-block;
+    margin: 0 10px;
+    padding: 5px;
+    font-size: 17px; 
+    font-family: inherit;
+}
+
+

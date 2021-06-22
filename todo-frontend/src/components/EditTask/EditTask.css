@@ -1,0 +1,19 @@
+.editTask{
+    padding: 50px 10px 10px 10px;
+}
+
+.editTask_form{
+    width: 50%;
+    margin: 10px auto;
+}
+
+.editTask_form > form> input{
+    width: 70%;
+    outline: none;
+    display: inline-block;
+    margin: 0 10px;
+    padding: 5px;
+    font-size: 17px; 
+    font-family: inherit;
+}
+
